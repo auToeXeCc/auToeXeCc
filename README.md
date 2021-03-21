@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @auToeXeCc
+- 👀 I’m interested in ...
+  Im right now doing my best to change my carrer from a scaffolder to a job in the IT world.
+- 🌱 I’m currently learning ...
+  Python and overall network engineering stuff.  
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+  jimmy87olsson@gmail.com
+
+<!---
+auToeXeCc/auToeXeCc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
